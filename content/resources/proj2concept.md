@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 79f9e773-069e-6a4f-e3ac-1ff6ebf8d955
 resourcetype: Document
 title: proj2concept.pdf
 uid: 576acb38-6837-e7ea-17f7-74ece644eeb7
