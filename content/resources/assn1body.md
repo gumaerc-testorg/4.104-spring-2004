@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions for exercise 1.
-file: /media/courses/4-104-architectural-design-intentions-spring-2004/091b9511c5f90cc13525e5514ada1edf_assn1body.pdf
+file: /courses/4-104-architectural-design-intentions-spring-2004/091b9511c5f90cc13525e5514ada1edf_assn1body.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: assn1body.pdf
 uid: 091b9511-c5f9-0cc1-3525-e5514ada1edf
 ---
+Instructions for exercise 1.
+

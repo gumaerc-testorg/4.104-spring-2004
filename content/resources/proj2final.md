@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions for Project 2, assignment 3.
-file: /media/courses/4-104-architectural-design-intentions-spring-2004/0c9bd0e5badb3cf2f80ed9154539f0bd_proj2final.pdf
+file: /courses/4-104-architectural-design-intentions-spring-2004/0c9bd0e5badb3cf2f80ed9154539f0bd_proj2final.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: proj2final.pdf
 uid: 0c9bd0e5-badb-3cf2-f80e-d9154539f0bd
 ---
+Instructions for Project 2, assignment 3.
+
