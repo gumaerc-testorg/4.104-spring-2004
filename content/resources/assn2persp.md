@@ -5,6 +5,7 @@ file: /courses/4-104-architectural-design-intentions-spring-2004/1ac6e641b956a7f
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assn2persp.pdf
 uid: 1ac6e641-b956-a7f3-d0dd-78b835c77898
 ---
 Instructions for exercise 2.
-

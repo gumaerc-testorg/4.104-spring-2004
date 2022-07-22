@@ -5,6 +5,7 @@ file: /courses/4-104-architectural-design-intentions-spring-2004/2b924636b404805
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: proj1synthesis.pdf
 uid: 2b924636-b404-805f-69f3-a5b9d89f5fb1
 ---
 Instructions for Project 1, assignment 5.
-
