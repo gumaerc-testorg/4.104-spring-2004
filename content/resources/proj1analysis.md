@@ -2,6 +2,7 @@
 content_type: resource
 description: Instructions for Project 1, Public Bathroom, Assignment 1.
 file: /courses/4-104-architectural-design-intentions-spring-2004/55847dcb9a68c402f3d0f2f9525f8c39_proj1analysis.pdf
+file_size: 25930
 file_type: application/pdf
 learning_resource_types:
 - Assignments
