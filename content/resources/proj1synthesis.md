@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions for Project 1, assignment 5.
-file: /courses/4-104-architectural-design-intentions-spring-2004/2b924636b404805f69f3a5b9d89f5fb1_proj1synthesis.pdf
+file: /ol-ocw-studio-app/courses/4-104-architectural-design-intentions-spring-2004/2b924636b404805f69f3a5b9d89f5fb1_proj1synthesis.pdf
 file_size: 15119
 file_type: application/pdf
 learning_resource_types:
