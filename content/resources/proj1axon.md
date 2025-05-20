@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions for Project 1, Public Bathroom, Assignment 4.
-file: /ol-ocw-studio-app/courses/4-104-architectural-design-intentions-spring-2004/de590059af50aaaf786e9690d2f2bda9_proj1axon.pdf
+file: /courses/4-104-architectural-design-intentions-spring-2004/de590059af50aaaf786e9690d2f2bda9_proj1axon.pdf
 file_size: 11206
 file_type: application/pdf
 learning_resource_types:
