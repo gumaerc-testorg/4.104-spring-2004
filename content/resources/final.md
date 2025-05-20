@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/4-104-architectural-design-intentions-spring-2004/1bebb0b713360c986a0a421f213a303b_final.pdf
+file: /courses/4-104-architectural-design-intentions-spring-2004/1bebb0b713360c986a0a421f213a303b_final.pdf
 file_size: 157676
 file_type: application/pdf
 learning_resource_types:
