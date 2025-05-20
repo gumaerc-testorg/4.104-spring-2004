@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions for exercise 1.
-file: /ol-ocw-studio-app/courses/4-104-architectural-design-intentions-spring-2004/091b9511c5f90cc13525e5514ada1edf_assn1body.pdf
+file: /courses/4-104-architectural-design-intentions-spring-2004/091b9511c5f90cc13525e5514ada1edf_assn1body.pdf
 file_size: 16472
 file_type: application/pdf
 learning_resource_types:
